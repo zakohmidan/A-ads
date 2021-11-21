@@ -42,7 +42,14 @@ form {
   text-align: center;
   background-color:transparent;
 }
-
+.fi_bt {
+color: #fffc00;
+display: block;
+font-size: 18px;
+font-weight: 600;
+margin: 0 0 3px;
+text-align: center;
+}
   
 #email {
   width: 75%;
